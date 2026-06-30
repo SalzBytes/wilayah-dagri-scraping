@@ -1,9 +1,10 @@
-# kodewilayah/permendagri-72-2019
+# Permendagri 300.2.2-2138/2025 data structured data extraction
 
-Scraper & scraping results for Permendagri No. 72/2019. The results are available in [`dist/base.csv`](dist/base.csv), each row containing:
+Permendagri 300.2.2-2138/2025 is a ministerial decree that is the latest edition of Indonesia's administrative region codes.
 
-* Region code
-* Name as it appears on the Permendagri with minimal sanitisation
+The raw dataset is a single ~58MB PDF which consists of:
+* The ministerial decree itself
+* An appendix which contains the region codes (this is where the data will be extracted from)
 
 ## Dependencies
 
