@@ -7,7 +7,7 @@ The raw dataset is a single ~58MB PDF which consists of:
 - The ministerial decree itself
 - An appendix which contains the region codes (this is where the data is extracted from)
 
-The extracted result is written to [`dist/base.csv`](./dist/base.csv). See [`dist/SCHEMA.md`](./SCHEMA.md) for column descriptions and totals.
+The extracted result is written to [`dist/base.csv`](./dist/base.csv). See [`SCHEMA.md`](./SCHEMA.md) for column descriptions and totals.
 
 ---
 
