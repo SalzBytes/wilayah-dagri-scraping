@@ -1,0 +1,4 @@
+pdftotext
+tabula-py
+pandas
+jupyter
