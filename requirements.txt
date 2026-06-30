@@ -1,4 +1,4 @@
-pdftotext
+pdfplumber
 tabula-py
 pandas
 jupyter
