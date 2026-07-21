@@ -1,0 +1,4 @@
+pdfplumber
+tabula-py
+pandas
+jupyter
